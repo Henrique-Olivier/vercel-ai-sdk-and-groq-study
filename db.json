@@ -1,0 +1,73 @@
+{
+  "jobs": [
+    {
+      "position": {
+        "name": "Desenvolvedor(a) Front-end Pleno – React",
+        "seniority": "pleno",
+        "stack": "frontend"
+      },
+      "resume": "Desenvolvedor(a) Front-end Pleno – React\n\nSobre a vaga\nBuscamos uma pessoa desenvolvedora front-end para construir e evoluir interfaces web da nossa plataforma, trabalhando junto com produto, design e back-end.\n\nResponsabilidades\n\nDesenvolver telas e componentes reutilizáveis com React e TypeScript\nIntegrar o front-end com APIs REST\nGarantir boa performance, acessibilidade e responsividade\nParticipar de code reviews e decisões técnicas do time\n\nRequisitos\n\nExperiência com React, TypeScript, HTML e CSS\nVivência com Git e consumo de APIs\nBoa comunicação e trabalho em equipe\n\nDiferenciais\n\nNext.js, testes automatizados (Jest, Testing Library)\nExperiência com design systems\n\nOferecemos\n\nModelo híbrido ou remoto\nVale-refeição/alimentação, plano de saúde e auxílio home office\nHorário flexível",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git",
+        "APIs REST",
+        "Next.js",
+        "Jest",
+        "Testing Library",
+        "design systems"
+      ],
+      "id": "iRlAFa07ObA"
+    },
+    {
+      "position": {
+        "name": "Desenvolvedor(a) Front-end Pleno – React",
+        "seniority": "pleno",
+        "stack": "frontend"
+      },
+      "resume": "Desenvolvedor(a) Front-end Pleno – React, responsável por criar e evoluir interfaces web usando React e TypeScript, integrar com APIs REST, garantir performance, acessibilidade e responsividade, e participar de code reviews e decisões técnicas. Experiência em Git, design systems, Next.js, e testes automatizados com Jest e Testing Library.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git",
+        "REST APIs",
+        "Next.js",
+        "Jest",
+        "Testing Library",
+        "Design Systems"
+      ],
+      "id": "R6_7LZZi6A0"
+    },
+    {
+      "position": {
+        "name": "Engenheiro(a) de Dados Pleno",
+        "seniority": "pleno",
+        "stack": "backend"
+      },
+      "resume": "Engenheiro(a) de Dados Pleno responsável por desenvolver e manter pipelines ETL/ELT, modelar dados em data warehouse e lake, garantir qualidade, governança e otimizar performance. Requisitos incluem Python, SQL avançado, Airflow, bancos relacionais e Git. Diferenciais: Spark, dbt, Kafka, serviços de dados na AWS, GCP ou Azure (Redshift, BigQuery, Databricks), Terraform.",
+      "technologies": [
+        "Python",
+        "SQL",
+        "Airflow",
+        "relational databases",
+        "Git",
+        "Spark",
+        "dbt",
+        "Kafka",
+        "AWS",
+        "GCP",
+        "Azure",
+        "Redshift",
+        "BigQuery",
+        "Databricks",
+        "Terraform"
+      ],
+      "id": "J7EZirfQ8PI"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

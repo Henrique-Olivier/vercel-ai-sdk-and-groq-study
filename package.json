@@ -1,17 +1,23 @@
 {
-  "name": "my-ai-app",
+  "name": "vercel-ai-sdk-and-groq-study",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "db": "json-server db.json --port 3001"
   },
   "dependencies": {
+    "@ai-sdk/google": "^4.0.105",
+    "@ai-sdk/groq": "^4.0.70",
+    "@ai-sdk/react": "^4.0.157",
+    "ai": "^7.0.153",
     "next": "16.4.3",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
@@ -20,6 +26,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.4.3",
+    "json-server": "1.0.0-beta.15",
     "tailwindcss": "^4",
     "typescript": "^5"
   },
